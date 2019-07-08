@@ -9,7 +9,7 @@ The first model is to predict RUL(Remaining Useful Lifetime) of the engine. This
 The second model is to predict the failure (FP- Failure Prediction). This model predicts the value as a classification problem. 
   The model building and evaluation is shown [Here](https://github.com/sachinmathewjose/Predictive-Maintainance-Multitasklearning/blob/master/Predicting_FP.ipynb)
 The third model is to predict both RUL and FP using a multi-task learning model.
-   The model building and evaluation is shown [Here]()
+   The model building and evaluation is shown [Here](https://github.com/sachinmathewjose/Predictive-Maintainance-Multitasklearning/blob/master/predictive_maintenance_multitaskLearning.ipynb)
    
    
 #### TO DO
